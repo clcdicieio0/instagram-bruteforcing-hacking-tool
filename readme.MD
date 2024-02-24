@@ -16,7 +16,7 @@ optional arguments:
   -h, --help            show this help message and exit
   -m MODE, --mode MODE  modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots
 Usage
-python3 instagram.py <username> <wordlist> -m <mode>
+python3 instagram.py <chan.1008_> <wordlist> -m <mode>
 Bots(Threads)
 4 bots: 64 passwords at a time
 8 bots: 128 passwords at a time
